@@ -25,8 +25,8 @@ Frontend:
 
 📈 Contacto
 
-    📧 [sebastian.srrr@gmail.com]
-    🌍 [https://www.linkedin.com/in/sebastian-poma/]
+    📧 sebastian.srrr@gmail.com
+    🌍 https://www.linkedin.com/in/sebastian-poma/
 
 ¡Gracias por visitar mi perfil! Si tienes algún proyecto o duda, no dudes en contactarme. Siempre estoy buscando nuevas oportunidades para aprender y contribuir.
 
