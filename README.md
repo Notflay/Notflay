@@ -1,32 +1,29 @@
-## Hi there 👋
+👋 Hola, soy Sebastian
 
+Soy un desarrollador especializado en entornos SAP, con experiencia sólida en integraciones y automatizaciones para SAP Business One, SAP CPI y SAP ECP.
 
-¡Hola! Soy [Sebastian Poma] 👋
+🔹 SAP Business One
+He trabajado con tecnologías como DI API, Service Layer y Data Transfer, desarrollando soluciones que permiten la integración fluida entre SAP y sistemas externos.
 
-Soy un desarrollador especializado en SAP Business One (B1) con un enfoque principal en el backend, pero también tengo experiencia trabajando en el desarrollo de frontend. Me apasiona crear soluciones eficientes y escalables, tanto para la parte lógica y de integración en el backend como para la interfaz de usuario en el frontend.
-🚀 Habilidades
-Backend:
+🔹 SAP Cloud Platform Integration (CPI)
+He diseñado y desarrollado iFlows, paquetes de integración y scripts en Groovy, creando conexiones eficientes entre sistemas SAP y no SAP.
 
-    Desarrollo y personalización de SAP B1 utilizando SAP B1 SDK y DI API.
-    Integración con otros sistemas y plataformas usando APIs RESTful y SOAP.
-    Diseño y optimización de bases de datos en MS SQL Server.
-    Automatización de procesos empresariales con eventos y triggers en SAP B1.
+🔹 SAP ECP (ABAP)
+Tengo experiencia desarrollando reportes personalizados y realizando mantenimiento en sistemas ABAP conectados a SAP ECP.
 
-Frontend:
+🔹 Frontend Development
+Además, tengo conocimientos en desarrollo frontend:
 
-    Desarrollo de interfaces de usuario utilizando HTML, CSS, JavaScript y frameworks modernos como React y Vue.js.
-    Implementación de APIs y consumo de datos para enriquecer la experiencia de usuario.
-    Trabajo con Bootstrap y Material UI para mejorar la apariencia y la responsividad de las interfaces.
+    Creación de interfaces con HTML, CSS, JavaScript
 
-🌱 Proyectos Recientes
+    Uso de frameworks modernos como React y Vue.js
 
-    Integración SAP B1 con plataforma de e-commerce: Desarrollé un servicio backend que conecta SAP B1 con una tienda en línea, sincronizando inventarios, pedidos y clientes en tiempo real.
-    Panel de administración para SAP B1: Creación de una interfaz de usuario en React para gestionar información crítica desde SAP B1 de forma visual y eficiente.
+    Integración de APIs para enriquecer la experiencia de usuario
 
-📈 Contacto
+    Estilizado con Bootstrap y Material UI para una apariencia profesional y responsiva
 
-    📧 sebastian.srrr@gmail.com
-    🌍 https://www.linkedin.com/in/sebastian-poma/
+📩 Contacto: sebastian.srrr@gmail.com
+🔗 LinkedIn: linkedin.com/in/sebastian-poma
 
 ¡Gracias por visitar mi perfil! Si tienes algún proyecto o duda, no dudes en contactarme. Siempre estoy buscando nuevas oportunidades para aprender y contribuir.
 
