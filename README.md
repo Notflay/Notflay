@@ -13,7 +13,7 @@ Apasionado por la **integración entre sistemas**, optimización de procesos y e
  
  **🔹 SAP SuccessFactors (ECP)**: Desarrollo en **ABAP** y modificación de reportes personalizados.  
  
- **🔹 Integraciones PTP (Procure-to-Pay)**: Conexión de procesos entre **Employee Central y ECP**, garantizando eficiencia y consistencia en la información.
+ **🔹 Integraciones PTP (Point-to-Point)**: Conexión de procesos entre **Employee Central y ECP**, garantizando eficiencia y consistencia en la información.
 
 ---
 
