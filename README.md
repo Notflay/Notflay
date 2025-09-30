@@ -7,10 +7,10 @@ Apasionado por la **integración entre sistemas**, optimización de procesos y e
 
 ## 🚀 Mis áreas de expertise
 
-- **🔹 SAP Business One**: Desarrollo de integraciones usando **DI API** y **Service Layer**, incluyendo procesos batch para cargas masivas (+10,000 registros de clientes u órdenes).  
-- **🔹 SAP CPI (Cloud Platform Integration)**: Diseño, desarrollo y mantenimiento de **iFlows** para conectar sistemas corporativos.  
-- **🔹 SAP SuccessFactors (ECP)**: Desarrollo en **ABAP** y modificación de reportes personalizados.  
-- **🔹 Integraciones PTP (Procure-to-Pay)**: Conexión de procesos entre **Employee Central y ECP**, garantizando eficiencia y consistencia en la información.
+ **🔹 SAP Business One**: Desarrollo de integraciones usando **DI API** y **Service Layer**, incluyendo procesos batch para cargas masivas (+10,000 registros de clientes u órdenes).  
+ **🔹 SAP CPI (Cloud Platform Integration)**: Diseño, desarrollo y mantenimiento de **iFlows** para conectar sistemas corporativos.  
+ **🔹 SAP SuccessFactors (ECP)**: Desarrollo en **ABAP** y modificación de reportes personalizados.  
+ **🔹 Integraciones PTP (Procure-to-Pay)**: Conexión de procesos entre **Employee Central y ECP**, garantizando eficiencia y consistencia en la información.
 
 ---
 
