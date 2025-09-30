@@ -1,6 +1,6 @@
 👋 Hola, soy Sebastian
 
-Soy desarrollador e **integrador SAP** con experiencia en **SAP Business One**, **SAP SuccessFactors (EC y ECP) y SAP CPI (iFlows)**. Mi enfoque está en el diseño y desarrollo de soluciones de integración entre sistemas, optimizando procesos y asegurando la correcta transferencia de datos.
+Soy desarrollador e **integrador SAP** con más de **2 años de experiencia** en **SAP Business One**, **SAP SuccessFactors (EC y ECP) y SAP CPI (iFlows)**. Mi enfoque está en el diseño y desarrollo de soluciones de integración entre sistemas, optimizando procesos y asegurando la correcta transferencia de datos.
 
 🚀 Lo que hago
 
