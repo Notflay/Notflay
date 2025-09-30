@@ -1,33 +1,23 @@
 👋 Hola, soy Sebastian
 
-Soy un desarrollador especializado en entornos SAP, con experiencia sólida en integraciones y automatizaciones para SAP Business One, SAP CPI y SAP ECP.
+Soy desarrollador e integrador SAP con experiencia en SAP Business One, SAP SuccessFactors (EC y ECP) y SAP CPI (iFlows). Mi enfoque está en el diseño y desarrollo de soluciones de integración entre sistemas, optimizando procesos y asegurando la correcta transferencia de datos.
 
-🔹 SAP Business One
-He trabajado con tecnologías como DI API, Service Layer y Data Transfer, desarrollando soluciones que permiten la integración fluida entre SAP y sistemas externos.
+🚀 Lo que hago
 
-🔹 SAP Cloud Platform Integration (CPI)
-He diseñado y desarrollado iFlows, paquetes de integración y scripts en Groovy, creando conexiones eficientes entre sistemas SAP y no SAP.
+SAP Business One: desarrollo de integraciones usando DI API y Service Layer, con proyectos que incluyen cargas masivas (+10,000 registros de clientes u órdenes) mediante procesos batch.
 
-🔹 SAP ECP (ABAP)
-Tengo experiencia desarrollando reportes personalizados y realizando mantenimiento en sistemas ABAP conectados a SAP ECP.
+SAP CPI: construcción y mantenimiento de iFlows para conectar múltiples sistemas.
 
-🔹 Frontend Development
-Además, tengo conocimientos en desarrollo frontend:
+SAP ECP: experiencia en ABAP para personalizar y modificar reportes según requerimientos del negocio.
 
-    Creación de interfaces con HTML, CSS, JavaScript
+Integración PTP (Procure-to-Pay): conexión de procesos entre Employee Central y ECP garantizando fluidez y consistencia de la información.
 
-    Uso de frameworks modernos como React y Vue.js
+📂 En mi perfil encontrarás
 
-    Integración de APIs para enriquecer la experiencia de usuario
+Algunos repositorios con ejemplos de cómo trabajo con integraciones en SAP B1 y otros pequeños proyectos que reflejan mi forma de estructurar código y manejar conexiones.
 
-    Estilizado con Bootstrap y Material UI para una apariencia profesional y responsiva
+📫 Contacto
 
-📩 Contacto: sebastian.srrr@gmail.com
-🔗 LinkedIn: linkedin.com/in/sebastian-poma
+✉️ Correo: sebastian.srrr@gmail.com
 
-¡Gracias por visitar mi perfil! Si tienes algún proyecto o duda, no dudes en contactarme. Siempre estoy buscando nuevas oportunidades para aprender y contribuir.
-
-  <div align= "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Notflay&show_icons=true&theme=midnight-purple"/>
-  </div>
-
+💼 LinkedIn: [linkedin.com/in/sebastian-pomaa](https://www.linkedin.com/in/sebastian-poma/)
