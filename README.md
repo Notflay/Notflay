@@ -28,6 +28,6 @@ Apasionado por la **integración entre sistemas**, optimización de procesos y e
 ## 📫 Contacto
 
 ✉️ **Correo**: sebastian.srrr@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/sebastian-pomaa](https://linkedin.com/in/sebastian-pomaa)
+💼 **LinkedIn**: [linkedin.com/in/sebastian-pomaa](https://www.linkedin.com/in/sebastian-poma)
 
 ---
